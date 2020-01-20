@@ -1,6 +1,7 @@
 ## movieInfo :book:
 
 * JavaScript/jQuery app that fetches movie data from the [OMDb API](http://www.omdbapi.com/?__cf_chl_captcha_tk__=5db59239e4aba5a7f3bc5bf36735f4cffaf2acce-1579537076-0-AfzbuNKEtXNqdi44nsU_6WdTkOUUoSuYVVGxZ9G9KYQuzgxxoSaSJ_lsHoAkKllP7-Qycg48tEHDFyUuv9BlKNEeTlWa4S9fKwXoGE0eTDrdV0ycJ-LUGNsLDk2u_OFjnYwTisHP6_0zysnnWCVGWOSbu3VpkC7paCpwG7XfdJUyJo9YeaP_OgMnPFb_rn5V06KgziVAKIZb4dYDgovqwLOP8K-poNzNvu-g5Rnx_m56nVrEoRgiO5lYwiozy3Nx1e4oHLOPkaO-guNXd7tfB8aaea0Fg0E_TsnbG1dfINpQOkqI_Pa7IeMuLxgPRARw9A)
+
 ## Steps to follow :scroll:
 
 ### 1. Fork it :fork_and_knife:
@@ -76,6 +77,10 @@ Then add a title and description to your pull request that explains your preciou
 
 ## Documentation :book:
 [OMDb API](http://www.omdbapi.com/?__cf_chl_captcha_tk__=5db59239e4aba5a7f3bc5bf36735f4cffaf2acce-1579537076-0-AfzbuNKEtXNqdi44nsU_6WdTkOUUoSuYVVGxZ9G9KYQuzgxxoSaSJ_lsHoAkKllP7-Qycg48tEHDFyUuv9BlKNEeTlWa4S9fKwXoGE0eTDrdV0ycJ-LUGNsLDk2u_OFjnYwTisHP6_0zysnnWCVGWOSbu3VpkC7paCpwG7XfdJUyJo9YeaP_OgMnPFb_rn5V06KgziVAKIZb4dYDgovqwLOP8K-poNzNvu-g5Rnx_m56nVrEoRgiO5lYwiozy3Nx1e4oHLOPkaO-guNXd7tfB8aaea0Fg0E_TsnbG1dfINpQOkqI_Pa7IeMuLxgPRARw9A)
+
+
+## Snapshot of Project :eye:
+![Screenshot (74)](https://user-images.githubusercontent.com/34008023/72750365-b1366080-3be2-11ea-818e-411c6928a5cb.png)
 
 ## Help Contributing Guides :crown:
 
